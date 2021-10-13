@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C# and basic Web Development.**
 
-<!-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**-->
+<!-- 👨‍💻 All of my projects are available at **[My Portfolio](https://WastedLlama.com)**-->
 
 - 📫 How to reach me **ryanjwilson07@gmail.com**
 
@@ -66,6 +66,7 @@
 <a href = "https://www.linkedin.com/in/ryan-wilson-557b34138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ryxnwil"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_wilsonryan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.twitch.tv/wastedllama"><img src="https://img.icons8.com/color/48/000000/twitch--v2.png"/></a>
 
 </p>
 
